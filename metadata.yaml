@@ -1,0 +1,29 @@
+_repo: The-black-Flemings_71929
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Norris, Kathleen Thompson
+    birthdate: 1880
+    deathdate: 1966
+    gutenberg_agent_id: '1247'
+    url: http://www.gutenberg.org/2009/agents/1247
+    wikipedia: https://en.wikipedia.org/wiki/Kathleen_Norris
+description: ''
+gutenberg_issued: '2023-10-22'
+identifiers:
+  gutenberg: '71929'
+language: en
+pgterms:marc904: https://archive.org/details/blackflemings00norr/page/2/mode/2up
+pgterms:marc905: 20220608233407norris
+pgterms:marc906: '1926'
+pgterms:marc907: us
+production_note: David E. Brown and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: '  $aGarden City, NY :$bDoubleday, Doran & Company, $c1926.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The black Flemings
+url: http://www.gutenberg.org/ebooks/71929
